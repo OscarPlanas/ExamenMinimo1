@@ -1,2 +1,2 @@
-"# Minimo1" 
-"# ExamenMinimo1" 
+# ExamenMinimo1 
+## Óscar Planas
